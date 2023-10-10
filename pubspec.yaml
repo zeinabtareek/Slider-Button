@@ -4,7 +4,7 @@ version: 2.0.0
 homepage: https://github.com/anirudhsharma392/Slider-Button
 
 environment:
-  sdk: "3.0.3"
+  sdk: ">=2.18.4 <3.0.0"
 #  sdk: "3.1.0"
 dependencies:
   vibration: ^1.7.4-nullsafety
